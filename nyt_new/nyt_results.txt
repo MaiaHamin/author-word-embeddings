@@ -1,0 +1,80 @@
+cosine
+
+rank accuracy for emb 50:
+0.3411764705882353
+dist accuracy for emb 50:
+0.3176470588235294
+rank accuracy for emb 100:
+0.4666666666666667
+dist accuracy for emb 100:
+0.4666666666666667
+rank accuracy for emb 150:
+0.4
+dist accuracy for emb 150:
+0.575
+rank accuracy for voc 200:
+0.30714285714285716
+dist accuracy for voc 200:
+0.2857142857142857
+rank accuracy for voc 500:
+0.4222222222222222
+dist accuracy for voc 500:
+0.4888888888888889
+rank accuracy for voc 750:
+0.7
+dist accuracy for voc 750:
+0.7
+rank accuracy for len 2000:
+0.2777777777777778
+dist accuracy for len 2000:
+0.28888888888888886
+rank accuracy for len 5000:
+0.38333333333333336
+dist accuracy for len 5000:
+0.4166666666666667
+rank accuracy for len 10000:
+0.5666666666666667
+dist accuracy for len 10000:
+0.5
+
+
+dist
+rank accuracy for emb / voc 50:
+dict_items([(50, [3, 3, 1, 6, 4, 2, 4, 2, 2, 4, 3, 4, 3, 2, 5, 4, 9]), (100, [9, 2, 7]), (150, [5, 6, 3, 8])])
+0.3588235294117647
+dist accuracy for emb / voc 50:
+0.38823529411764707
+rank accuracy for emb / voc 100:
+dict_items([(50, [3, 3, 1, 6, 4, 2, 4, 2, 2, 4, 3, 4, 3, 2, 5, 4, 9]), (100, [9, 2, 7]), (150, [5, 6, 3, 8])])
+0.6
+dist accuracy for emb / voc 100:
+0.4
+rank accuracy for emb / voc 150:
+dict_items([(50, [3, 3, 1, 6, 4, 2, 4, 2, 2, 4, 3, 4, 3, 2, 5, 4, 9]), (100, [9, 2, 7]), (150, [5, 6, 3, 8])])
+0.55
+dist accuracy for emb / voc 150:
+0.55
+rank accuracy for emb / voc 200:
+0.32142857142857145
+dist accuracy for emb / voc 200:
+0.37857142857142856
+rank accuracy for emb / voc 500:
+0.5222222222222223
+dist accuracy for emb / voc 500:
+0.4444444444444444
+rank accuracy for emb / voc 750:
+0.9
+dist accuracy for emb / voc 750:
+0.7
+rank accuracy for emb / voc 2000:
+0.3
+dist accuracy for emb / voc 2000:
+0.3333333333333333
+rank accuracy for emb / voc 5000:
+0.45
+dist accuracy for emb / voc 5000:
+0.45
+rank accuracy for emb / voc 10000:
+0.6666666666666666
+dist accuracy for emb / voc 10000:
+0.5333333333333333
